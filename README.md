@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Aqib Mohammed </h1>
+<h1 align="center">Hi 👋, I'm Mohammed Aqib </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqib-2&label=Profile%20views&color=0e75b6&style=flat" alt="aqib-2" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-- 🔭 I’m currently working on **E-Commerce Website**
+- 🔭 I’m currently working on **Spotify Clone**
 
-- 🌱 I’m currently learning **CSS,JavaScript**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **JAVA**
+- 💬 Ask me about **HTML,CSS,JavaScript,JAVA**
 
 - 📫 How to reach me **maqib82001@gmail.com**
 
