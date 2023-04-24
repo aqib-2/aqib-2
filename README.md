@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqib-2&label=Profile%20views&color=0e75b6&style=flat" alt="aqib-2" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-- 🔭 I’m currently working on **Spotify Clone**
+- 🔭 I’m currently working on **Personal Portfolio**
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,JAVA**
+- 💬 Ask me about **HTML,CSS,JavaScript,React,JAVA**
 
 - 📫 How to reach me **maqib82001@gmail.com**
 
